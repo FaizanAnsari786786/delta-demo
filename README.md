@@ -1,2 +1,2 @@
 # delta-demo
-this is learn for git $github
+this is learn for git $github.
